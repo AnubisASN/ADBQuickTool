@@ -1,0 +1,9 @@
+bin/config.json
+bin/logs/
+bin/screenshots/
+bin/downloads/
+*.user
+*.suo
+*.pdb
+obj/
+.vs/
